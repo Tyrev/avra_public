@@ -4,5 +4,5 @@ argparse
 nibabel
 h5py
 nipype
-glob3
+glob2
 scikit-image
